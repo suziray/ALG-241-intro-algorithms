@@ -1,0 +1,40 @@
+*** RUNNING POST-TURNIN TESTS ON 2015-09-05 22:51:33 CDT ***
+* Language is Java
+
+* Running test #1
+* Arguments: 0
++++ PASSED test #1
+
+* Running test #2
+* Arguments: 1
++++ PASSED test #2
+
+* Running test #3
+* Arguments: 2
++++ PASSED test #3
+
+* Running test #4
+* Arguments: 3
++++ PASSED test #4
+
+* Running test #5
+* Arguments: 4
++++ PASSED test #5
+
+* Running test #6
+* Arguments: 5
++++ PASSED test #6
+
+* Running test #7
+* Arguments: 6
++++ PASSED test #7
+
+* Running test #8
+* Arguments: 99
++++ PASSED test #8
+
+* Running test #9
+* Arguments: 100
++++ PASSED test #9
+
+* Passed 9/9 tests

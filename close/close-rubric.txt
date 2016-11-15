@@ -1,0 +1,51 @@
+########################################################################
+# CSE 241 LAB 1 GRADING RUBRIC
+
+Repo Name (WUSTL key):suz
+
+Language used: Java
+
+Name of grader: Tyler Ponder
+
+OVERALL GRADE: 100
+
+///////////////////////////////////////////////////////////////////////
+
+Lateness penalty (if any):none
+
+///////////////////////////////////////////////////////////////////////
+
+Good job! Full credit on all subsections.
+
+###### PART 1 (75%)
+
+# CORRECTNESS OF CODE (40%)
+
+
+# EFFICIENCY OF CODE (20%)
+ 
+
+# TEST CASES (8%)
+
+
+# WRITEUP (3%)
+
+
+# CODING STYLE (4%)
+
+
+######################################################################
+
+###### PART 2 (20%)
+
+# RUNNING TIME PLOT (15%)
+
+
+# RUNNING TIME MIN, MAX, AVG (5%)
+
+
+######################################################################
+
+
+###### PART 3 (5%)
+
